@@ -60,7 +60,7 @@ const IntroModal = ({ showModal, onToggle }) => {
             underline="none"
             variant="contained"
             disableElevation
-            href="https://github.com/TutulDevs/mui-practice"
+            href="https://github.com/Abirett/mui-dashboard"
             target="_blank"
             rel="noopener noreferrer"
           >
