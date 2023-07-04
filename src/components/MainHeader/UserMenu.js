@@ -132,14 +132,14 @@ const UserMenu = (props) => {
         {/* Header */}
         <BoxStyle>
           <Typography variant="h6" component="h3">
-            Jaydon Frankie
+            Ashfaque Hossain
           </Typography>
           <Typography
             variant="body2"
             component="p"
             className={classes.grayMain}
           >
-            demo@minimal.cc
+            ashfaquehossainXT@pm.me
           </Typography>
         </BoxStyle>
 

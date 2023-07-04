@@ -132,7 +132,7 @@ const SideDrawer = (props) => {
         <Avatar src={userAvatar} alt="User Image" />
 
         <Typography variant="subtitle1" component="h3">
-          Jaydon Frankie
+          Ashfaque Hossain
         </Typography>
       </UserCardStyle>
 
