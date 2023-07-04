@@ -32,11 +32,10 @@ const IntroModal = ({ showModal, onToggle }) => {
         </Typography>
 
         <Typography paragraph>
-          Thanks for checking this site. This is a cloned dashboard from
-          Material-UI to practice MUI.
+          Thanks for checking this site. This is a user dashboard by using Material UI with Reactjs. 
         </Typography>
         <Typography paragraph>
-          The main focus of this project was the UI. I know there are some bugs
+          The main focus of this project was the UI design. I know there are some bugs
           in it. If you can suggest me any way, I'll appreciate it very much.
         </Typography>
 
